@@ -61,12 +61,12 @@
 </a>
 </p>
 <p align="center">
-<a href="https://opgc.me/#/users/gudals-kim" target="_blank"><img src="https://api.opgc.me/githubs/users/gudals-kim/tag/?theme=prism" /></a>
+<a href="https://opgc.me/#/users/gudals-kim" target="_blank"><img src="https://api.opgc.me/githubs/users/HyukJin98/tag/?theme=prism" /></a>
 </p>
 
 <h3 align="center"> 👀 algorithm stats 👀  </h3>
 <p align="center">
-<a href="https://solved.ac/gudals/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gudals"></a>
+<a href="https://solved.ac/gudals/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=HyukJin98"></a>
 </p>
 
 
