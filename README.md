@@ -3,7 +3,7 @@
 
 ### 🙌 hello world
 
-👋 hello, I'm gudals-kim. I am currently graduating from the Department of Information Security. 
+👋 hello, I'm HyukJin98. I am currently graduating from the Department of Information Security. 
 
 
 ### 🔭 I’m currently working on
@@ -38,11 +38,11 @@
 <h3 align="center"> 📈 github stats 📈  </h3>
 
 <p align="center">
-<a href="https://github.com/gudals-kim"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gudals-kim"></a>
+<a href="https://github.com/HyukJin98"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/HyukJin98"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudals-kim&theme=dracula"></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HyukJin98&theme=dracula"></a>
 </p>
 
 
@@ -61,7 +61,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://opgc.me/#/users/gudals-kim" target="_blank"><img src="https://api.opgc.me/githubs/users/HyukJin98/tag/?theme=prism" /></a>
+<a href="https://opgc.me/#/users/HyukJin98" target="_blank"><img src="https://api.opgc.me/githubs/users/HyukJin98/tag/?theme=prism" /></a>
 </p>
 
 <h3 align="center"> 👀 algorithm stats 👀  </h3>
@@ -77,11 +77,11 @@
 <p align="center">
   <a href="https://www.instagram.com/dev_gudals/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/dev_gudals"/></a>&nbsp 
   <a href="mailto:rlagudals0420@naver.com"><img src="https://img.shields.io/badge/naver mail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlagudals0420@naver.com"/></a>&nbsp
-  <a href="mailto:kimtuti95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://github.com/gudals-kim"/></a>&nbsp 
-  <a href="https://velog.io/@gudals-kim"><img src="https://img.shields.io/badge/Tech Blog-6400AA?style=flat-square&logo=velog&logoColor=white&link=https://github.com/gudals-kim"/></a>
+  <a href="mailto:kimtuti95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://github.com/HyukJin98"/></a>&nbsp 
+  <a href="https://velog.io/@HyukJin98"><img src="https://img.shields.io/badge/Tech Blog-6400AA?style=flat-square&logo=velog&logoColor=white&link=https://github.com/HyukJin98"/></a>
   <a href="https://discord.gg/e9ySmU52"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
   <a href="https://join.slack.com/t/slack-tjv4707/shared_invite/zt-1odsm566p-s5mu8uIOEmBj8u8H36ihuQ"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
 </p>
 
 
-![snake gif](https://github.com/gudals-kim/gudals-kim/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HyukJin98/HyukJin98/blob/output/github-contribution-grid-snake.svg)
