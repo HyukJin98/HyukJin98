@@ -11,7 +11,7 @@
   - 2023/07/05 ~ 2024/06/30
 
 ### 🌱 I’m currently learning
-- Languages: Java, Python
+- Languages: Java
 - Topics #1: web, aos, ios / http, beck-end(spring boot, django)
 - Topics #2: cloud infra / 
 - Topics #3: security / 
@@ -20,7 +20,7 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logo=Java&logoColor=a431f0"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logo=JAVA&logoColor=a431f0"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/MySQL-ffb811?style=flat-square&logo=mysql&logoColor=darkred"/></a>&nbsp 
 </p>
