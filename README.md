@@ -20,7 +20,7 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logo=JAVA&logoColor=a431f0"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/JDK 11-6DB33F?style=flat-square&logo=openjdk&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/MySQL-ffb811?style=flat-square&logo=mysql&logoColor=darkred"/></a>&nbsp 
 </p>
