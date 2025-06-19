@@ -20,12 +20,8 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-6DB33F?style=flat-square&logo=Kotlin&logoColor=a431f0"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/JAVA-6DB33F?style=flat-square&logo=Kotlin&logoColor=a431f0"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/android studio-6DB33F?style=flat-square&logo=android&logoColor=dark"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=red"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/django-3766AB?style=flat-square&logo=django&logoColor=red"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/tensorflow-3766AB?style=flat-square&logo=tensorflow&logoColor=red"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-ffb811?style=flat-square&logo=mysql&logoColor=darkred"/></a>&nbsp 
 </p>
 
