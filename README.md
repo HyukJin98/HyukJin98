@@ -66,7 +66,7 @@
 
 <h3 align="center"> 👀 algorithm stats 👀  </h3>
 <p align="center">
-<a href="https://solved.ac/jin9896/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=HyukJin98"></a>
+<a href="https://solved.ac/jin9896/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jin9896"></a>
 </p>
 
 
